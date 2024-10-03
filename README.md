@@ -1,3 +1,4 @@
 # Kuliah 4
-Nama : Raditya Dinantara Yudha
-NIM : werwer
+Oleh : kelompok 3
+Matkul : Algoritma Pemrogramana 
+kelas : 2024B
